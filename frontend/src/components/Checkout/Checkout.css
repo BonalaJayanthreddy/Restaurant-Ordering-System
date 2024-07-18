@@ -1,0 +1,19 @@
+
+
+
+.tick-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .tick {
+    font-size: 5rem;
+    color: green;
+  }
+  
+
+  .vertical-line {
+    border-left: 1.5px solid #000000; /* Adjust thickness and color as needed */
+    margin-left: 100px;
+  }
+  
